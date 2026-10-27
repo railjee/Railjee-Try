@@ -1,0 +1,311 @@
+{
+  "id": "ccts",
+  "version": 2,
+  "source": {
+    "paperId": "paper-UauClV",
+    "note": "10 easy, well-known questions picked from CCTS PQ Exam Paper (NR, 2025, 110 Qs). sourceId = question id in that paper."
+  },
+  "paper": {
+    "name": "CCTS Mock Test",
+    "durationMinutes": 8,
+    "negativeMarking": 0.33,
+    "passPercentage": 70
+  },
+  "copy": {
+    "headline": "CCTS Exam Practice",
+    "subline": "Questions from a real previous paper · Free · No login needed",
+    "ctaTitle": "Sign up to access the full 110-question CCTS paper",
+    "ctaButton": "Sign Up"
+  },
+  "signup": {
+    "path": "/auth/signup",
+    "redirect": "/departments/commercial",
+    "utm": {
+      "utm_source": "meta",
+      "utm_medium": "paid",
+      "utm_campaign": "ccts_demo"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "sourceId": 107,
+      "question": {
+        "en": "Hindi Divas is celebrated on—",
+        "hi": "हिंदी दिवस कब मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "June 14",
+          "hi": "14 जून"
+        },
+        {
+          "en": "January 26",
+          "hi": "26 जनवरी"
+        },
+        {
+          "en": "December 14",
+          "hi": "14 दिसंबर"
+        },
+        {
+          "en": "September 14",
+          "hi": "14 सितंबर"
+        }
+      ],
+      "details": [],
+      "correctAnswer": 3
+    },
+    {
+      "id": 2,
+      "sourceId": 38,
+      "question": {
+        "en": "What is 'IRCTC'?",
+        "hi": "'IRCTC' क्या है?"
+      },
+      "options": [
+        {
+          "en": "Indian Railway Central Training Center",
+          "hi": "भारतीय रेलवे केंद्रीय प्रशिक्षण केंद्र"
+        },
+        {
+          "en": "Indian Railway Commercial Tribunal Commission",
+          "hi": "भारतीय रेलवे वाणिज्यिक न्यायाधिकरण आयोग"
+        },
+        {
+          "en": "Indian Railway Catering and Tourism Corporation",
+          "hi": "भारतीय रेलवे खानपान और पर्यटन निगम"
+        },
+        {
+          "en": "Indian Railway Command and Transport Center",
+          "hi": "भारतीय रेलवे कमांड और परिवहन केंद्र"
+        }
+      ],
+      "details": [],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "sourceId": 60,
+      "question": {
+        "en": "What does 'RAC' stand for?",
+        "hi": "'RAC' का क्या अर्थ है?"
+      },
+      "options": [
+        {
+          "en": "Reservation Against Cancellation",
+          "hi": "रद्दीकरण के विरुद्ध आरक्षण"
+        },
+        {
+          "en": "Ready Accommodation Category",
+          "hi": "रेडी एकॉमोडेशन श्रेणी"
+        },
+        {
+          "en": "Reservation After Cancellation",
+          "hi": "रद्दीकरण के बाद आरक्षण"
+        },
+        {
+          "en": "Railway Allotment Card",
+          "hi": "रेलवे आवंटन कार्ड"
+        }
+      ],
+      "details": [],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "sourceId": 42,
+      "question": {
+        "en": "What is 'Rail Madad'?",
+        "hi": "'रेल मदद' क्या है?"
+      },
+      "options": [
+        {
+          "en": "Mobile app for passenger grievance redressal",
+          "hi": "यात्री शिकायत निवारण के लिए मोबाइल एप्लिकेशन"
+        },
+        {
+          "en": "Railway employee help program",
+          "hi": "रेलवे कर्मचारी सहायता कार्यक्रम"
+        },
+        {
+          "en": "Railway medical assistance",
+          "hi": "रेलवे चिकित्सा सहायता"
+        },
+        {
+          "en": "Railway maintenance program",
+          "hi": "रेलवे रखरखाव कार्यक्रम"
+        }
+      ],
+      "details": [],
+      "correctAnswer": 0
+    },
+    {
+      "id": 5,
+      "sourceId": 21,
+      "question": {
+        "en": "What is 'ATVM'?",
+        "hi": "'ATVM' क्या है?"
+      },
+      "options": [
+        {
+          "en": "Advanced Transport Validation Module",
+          "hi": "उन्नत परिवहन सत्यापन मॉड्यूल"
+        },
+        {
+          "en": "Automated Train Vending Machine",
+          "hi": "स्वचालित ट्रेन वेंडिंग मशीन"
+        },
+        {
+          "en": "Automatic Ticket Vending Machine",
+          "hi": "स्वचालित टिकट वेंडिंग मशीन"
+        },
+        {
+          "en": "All Terminal Vacancy Monitor",
+          "hi": "सभी टर्मिनल रिक्ति निगरानी"
+        }
+      ],
+      "details": [],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "sourceId": 24,
+      "question": {
+        "en": "What is 'NTES'?",
+        "hi": "'NTES' क्या है?"
+      },
+      "options": [
+        {
+          "en": "Network Terminal Exchange System",
+          "hi": "नेटवर्क टर्मिनल विनिमय प्रणाली"
+        },
+        {
+          "en": "National Ticket Exchange Service",
+          "hi": "राष्ट्रीय टिकट विनिमय सेवा"
+        },
+        {
+          "en": "National Train Enquiry System",
+          "hi": "राष्ट्रीय ट्रेन पूछताछ प्रणाली"
+        },
+        {
+          "en": "National Transport Enquiry Service",
+          "hi": "राष्ट्रीय परिवहन पूछताछ सेवा"
+        }
+      ],
+      "details": [],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "sourceId": 89,
+      "question": {
+        "en": "Vande Bharat Trains are equipped with—",
+        "hi": "वंदे भारत ट्रेनों में क्या उपलब्ध होता है?"
+      },
+      "options": [
+        {
+          "en": "Air-brake manual mode",
+          "hi": "एयर ब्रेक मैनुअल मोड"
+        },
+        {
+          "en": "Conventional ICF coaches",
+          "hi": "पारंपरिक ICF कोच"
+        },
+        {
+          "en": "Single-cab diesel locomotive",
+          "hi": "एकल-कैब डीजल लोकोमोटिव"
+        },
+        {
+          "en": "Distributed traction system",
+          "hi": "वितरित ट्रैक्शन प्रणाली"
+        }
+      ],
+      "details": [],
+      "correctAnswer": 3
+    },
+    {
+      "id": 8,
+      "sourceId": 8,
+      "question": {
+        "en": "What is 'Demurrage' charge?",
+        "hi": "'डिमरेज' शुल्क क्या है?"
+      },
+      "options": [
+        {
+          "en": "Charge for detention of wagon beyond free time",
+          "hi": "मुक्त समय से परे वैगन के दखल के लिए शुल्क"
+        },
+        {
+          "en": "Charge for unloading",
+          "hi": "अनलोडिंग के लिए शुल्क"
+        },
+        {
+          "en": "Charge for transportation",
+          "hi": "परिवहन के लिए शुल्क"
+        },
+        {
+          "en": "Charge for loading",
+          "hi": "लोडिंग के लिए शुल्क"
+        }
+      ],
+      "details": [],
+      "correctAnswer": 0
+    },
+    {
+      "id": 9,
+      "sourceId": 88,
+      "question": {
+        "en": "Without ticket in reserved class, passenger is charged—",
+        "hi": "आरक्षित श्रेणी में बिना टिकट यात्री से क्या वसूला जाता है?"
+      },
+      "options": [
+        {
+          "en": "Minimum penalty only",
+          "hi": "केवल न्यूनतम दंड"
+        },
+        {
+          "en": "Fare + Excess charge",
+          "hi": "किराया + अतिरिक्त शुल्क"
+        },
+        {
+          "en": "Only fare difference",
+          "hi": "केवल किराया अंतर"
+        },
+        {
+          "en": "Ticket cancellation fee",
+          "hi": "टिकट रद्द शुल्क"
+        }
+      ],
+      "details": [],
+      "correctAnswer": 1
+    },
+    {
+      "id": 10,
+      "sourceId": 29,
+      "question": {
+        "en": "What is 'KisanRail' scheme?",
+        "hi": "'किसानरेल' योजना क्या है?"
+      },
+      "options": [
+        {
+          "en": "Scheme for farm produce storage",
+          "hi": "खेत के उत्पादों के भंडारण के लिए योजना"
+        },
+        {
+          "en": "Scheme for transportation of agricultural produce",
+          "hi": "कृषि उत्पादों के परिवहन के लिए योजना"
+        },
+        {
+          "en": "Scheme for farmer passenger travel",
+          "hi": "किसान यात्री यात्रा के लिए योजना"
+        },
+        {
+          "en": "Scheme for agricultural training",
+          "hi": "कृषि प्रशिक्षण के लिए योजना"
+        }
+      ],
+      "details": [],
+      "correctAnswer": 1
+    }
+  ]
+}
